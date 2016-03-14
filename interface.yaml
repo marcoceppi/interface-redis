@@ -1,0 +1,3 @@
+name: redis
+summary: Interface for relating to a redis server
+maintainer: 'Marco Ceppi <marco@ceppi.net>'
